@@ -57,7 +57,9 @@ public class _03_VanGogh extends PApplet {
     Brush brush;
     
     void initializePaintings() {
-        
+        PImage[] image;
+        image = new PImage[4];
+       
     }
     
     void selectNextPainting() {
