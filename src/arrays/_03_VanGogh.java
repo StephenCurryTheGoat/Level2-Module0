@@ -125,8 +125,12 @@ public class _03_VanGogh extends PApplet {
             }
         }
     }
-
+    
     public static void main(String[] args) {
         PApplet.main(_03_VanGogh.class.getName());
+
+        }
     }
-}
+
+
+  
